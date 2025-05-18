@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemorykeeper_website=self.webpackChunkmemorykeeper_website||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u6b22\u8fce\u4f7f\u7528\u62fe\u5149\u5fc6\u6808","permalink":"/EverSnip/en/blog/welcome"}]}')}}]);

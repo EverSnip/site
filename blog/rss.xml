@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>拾光忆栈 Blog</title>
+        <link>https://EverSnip.github.io/EverSnip/blog</link>
+        <description>拾光忆栈 Blog</description>
+        <lastBuildDate>Mon, 25 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[欢迎使用拾光忆栈]]></title>
+            <link>https://EverSnip.github.io/EverSnip/blog/welcome</link>
+            <guid>https://EverSnip.github.io/EverSnip/blog/welcome</guid>
+            <pubDate>Mon, 25 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎来到拾光忆栈的官方博客！在这里，我们将分享产品更新、使用技巧、用户故事以及与个人知识管理相关的内容。]]></description>
+            <content:encoded><![CDATA[<p>欢迎来到拾光忆栈的官方博客！在这里，我们将分享产品更新、使用技巧、用户故事以及与个人知识管理相关的内容。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="关于拾光忆栈">关于拾光忆栈<a href="#关于拾光忆栈" class="hash-link" aria-label="关于拾光忆栈的直接链接" title="关于拾光忆栈的直接链接">​</a></h2><p>拾光忆栈是一个专注于个人记忆和知识管理的Chrome扩展，它允许您从网页中保存文本片段、图片和视频，并通过分类、标签和搜索功能进行组织和管理。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="为什么选择拾光忆栈">为什么选择拾光忆栈？<a href="#为什么选择拾光忆栈" class="hash-link" aria-label="为什么选择拾光忆栈？的直接链接" title="为什么选择拾光忆栈？的直接链接">​</a></h2><p>在信息爆炸的时代，我们每天都会接触到大量的信息，但真正有价值的内容往往会被淹没在信息洪流中。拾光忆栈的核心理念是帮助用户捕捉、保存和管理这些珍贵的"记忆碎片"，构建个人知识库，让重要信息触手可及。</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="主要特点">主要特点<a href="#主要特点" class="hash-link" aria-label="主要特点的直接链接" title="主要特点的直接链接">​</a></h2><ul><li><strong>便捷保存</strong>：从任何网页快速保存文本、图片和视频</li><li><strong>智能组织</strong>：通过分类、标签和搜索功能轻松管理记忆</li><li><strong>私密安全</strong>：支持数据加密和私有云存储</li><li><strong>多设备同步</strong>：在不同设备间无缝同步您的记忆</li><li><strong>高度可定制</strong>：根据个人偏好自定义外观和功能</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="关注我们">关注我们<a href="#关注我们" class="hash-link" aria-label="关注我们的直接链接" title="关注我们的直接链接">​</a></h2><p>请继续关注我们的博客，了解更多关于拾光忆栈的最新动态和使用技巧。如果您有任何问题或建议，欢迎在评论区留言或通过GitHub与我们联系。</p><p>祝您使用愉快！</p>]]></content:encoded>
+            <category>欢迎</category>
+            <category>介绍</category>
+        </item>
+    </channel>
+</rss>

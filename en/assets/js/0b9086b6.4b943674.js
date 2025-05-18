@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemorykeeper_website=self.webpackChunkmemorykeeper_website||[]).push([[9180],{7442:e=>{e.exports=JSON.parse('{"label":"\u6b22\u8fce","permalink":"/EverSnip/en/blog/tags/\u6b22\u8fce","allTagsPath":"/EverSnip/en/blog/tags","count":1}')}}]);
