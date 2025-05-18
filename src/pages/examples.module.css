@@ -1,0 +1,77 @@
+.examplesHeader {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.examplesHeader h1 {
+  margin-bottom: 1rem;
+}
+
+.examplesHeader p {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.examplesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin-bottom: 4rem;
+}
+
+.exampleCard {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.exampleCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.exampleImage {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.exampleContent {
+  padding: 1.5rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.exampleTitle {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.exampleDescription {
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 1.5rem;
+  flex-grow: 1;
+}
+
+.examplesCta {
+  text-align: center;
+  margin: 4rem 0;
+  padding: 3rem;
+  background-color: var(--ifm-color-emphasis-100);
+  border-radius: 8px;
+}
+
+.examplesCta h2 {
+  margin-bottom: 1rem;
+}
+
+.examplesCta p {
+  margin-bottom: 2rem;
+}

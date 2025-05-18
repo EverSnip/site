@@ -1,0 +1,125 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroDescription {
+  max-width: 600px;
+  margin: 0 auto 2rem;
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+  
+  .heroDescription {
+    font-size: 1rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sectionTitle {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+/* 步骤部分 */
+.stepsSection {
+  padding: 4rem 0;
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.stepCard {
+  background-color: white;
+  border-radius: 8px;
+  padding: 2rem;
+  height: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.stepCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.stepNumber {
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  width: 40px;
+  height: 40px;
+  background-color: var(--ifm-color-primary);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+/* 用户评价部分 */
+.testimonialsSection {
+  padding: 4rem 0;
+}
+
+.testimonialCard {
+  background-color: var(--ifm-color-emphasis-100);
+  border-radius: 8px;
+  padding: 1.5rem;
+  height: 100%;
+  transition: all 0.3s ease;
+}
+
+.testimonialCard:hover {
+  background-color: var(--ifm-color-emphasis-200);
+}
+
+.testimonialContent {
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+.testimonialAuthor {
+  text-align: right;
+  font-weight: bold;
+}
+
+/* CTA部分 */
+.ctaSection {
+  padding: 4rem 0;
+  text-align: center;
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.ctaButtons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .ctaButtons {
+    flex-direction: column;
+    align-items: center;
+  }
+}
