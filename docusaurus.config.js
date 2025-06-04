@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '拾光忆栈',
-  tagline: '让每一刻记忆都被珍藏',
+  tagline: '珍藏每一个美好瞬间',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
